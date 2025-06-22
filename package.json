@@ -1,6 +1,6 @@
 {
   "name": "svelte-dialogs",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "author": "Fabrizio Giovinazzi (https://bibizio.github.io/cv/)",
   "description": "handy dialogs in/for svelte",
   "license": "MIT",
@@ -29,7 +29,7 @@
     "site-dev": "gulp site-dev"
   },
   "peerDependencies": {
-    "svelte": "^5.0.0"
+    "svelte": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
